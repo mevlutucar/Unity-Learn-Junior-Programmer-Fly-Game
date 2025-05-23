@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "FlyGame.sln"
+    "dotnet.defaultSolution": "Unity-Learn-Junior-Programmer-Fly-Game.sln"
 }
